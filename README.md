@@ -1,0 +1,1 @@
+The Application is conceptualized as a means to demonstrate the fundamental operations that customers typically perform at an ATM or through online banking platforms. These operations include account management, balance inquiries, fund deposits, withdrawals, account-to-account transfers, and reviewing transaction histories.
